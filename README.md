@@ -5,13 +5,13 @@
 
 Example:
 
-## Natural Language Processing
+# Natural Language Processing
 
-## Speech Processing
+# Speech Processing
 
 
 
-#### Automatic Speech Recognition (ASR)
+## Automatic Speech Recognition (ASR)
 ##### What is ASR
 ASR is the task of taking speech audio files and automatically creating transcriptions for the audio.
 
