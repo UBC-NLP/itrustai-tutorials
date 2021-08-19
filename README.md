@@ -5,13 +5,55 @@
 
 Example:
 
-# Natural Language Processing
+---
 
-# Speech Processing
+# General Instructions
+
+For each task, we want to do the following in a notebook.
+
+- what is it?
+- a small dataset
+- an example tutorial, possibly just using an off-the-shelf tool (classical ML)
+- a deep learning example
+- list of external tools, possibly with some brief explanation about each tool (a couple of sentences, what it does, why good/bad, what languages it covers)
+
+## Natural Language Processing
+
+Muhammad writes some content here (Peter)...
 
 
+For POS and NER:
 
-## Automatic Speech Recognition (ASR)
+- explain what each is
+- provide a sample dataset (small, in English)
+- show how to train a model with deep learning (one with BiLSTM using PyTorch, and another with fine-tuning BERT use HuggingFace)
+- list existing tools and explain how to use Spacy
+
+### POS Tagging (Ife)
+
+
+### NER (Weirui)
+
+
+### Text Classification (Chiyu)
+
+- What is text classification?
+
+
+|          | Category      | Descriptions | Link |
+|-------------|---|------------------------------|--------------------------------------|
+|xx|xx|xx|xx|
+
+### Machine Translation
+
+--- 
+
+
+## Speech Processing (Peter)
+- 
+
+
+#### Automatic Speech Recognition (ASR)
 ##### What is ASR
 ASR is the task of taking speech audio files and automatically creating transcriptions for the audio.
 
@@ -31,7 +73,10 @@ ASR is the task of taking speech audio files and automatically creating transcri
 |   |  |   | |
 
 
-## Image Processing
+## Image Processing (Chiyu)
+
+- object recognition
+- caption generation
 
 
 
