@@ -50,8 +50,7 @@ For POS and NER:
 
 
 # Speech Processing (Peter)
-- 
-
+Speech Processing deals with extracting information or manipulating, human speech. Several challenges are present in speech processing compared to text-based NLP, we illustrate two such issues. Audio can be represented in several different ways (e.g. raw wav files, log mel spectrograms, Mel Frequency Cepstral Coefficients etc.) all of which will represents relatively long sequence lengths compared to text, making model training difficult if simply trained on the whole sequence. Data availability is also significantly less than as compared to text, greatly impacting low-resources languages where it may be difficult to find enough labeled data to make high quality speech processing models. 
 
 ## Automatic Speech Recognition (ASR)
 ### What is ASR
