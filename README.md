@@ -58,6 +58,7 @@ ASR is the task of taking speech audio files and automatically creating transcri
 
 ### Example ASR Tutorial
 
+The easiest starting point for getting an ASR model running currently is to use a pretrained model, such as wav2vec 2.0. [Fine-tuning for English Systems](https://github.com/patrickvonplaten/notebooks/blob/master/Fine_tuning_Wav2Vec2_for_English_ASR.ipynb) is HuggingFace's tutorial on using the pre-trained English wav2vec 2.0 model (trained via a self-supervised process) and fine-tune it as an ASR model using Connectionist Temporal Classification (CTC), a common ASR technique to align recognized sounds to transcript letters. To improve results a language model and CTCdecoding are often used  [PyCTCdecode Example](https://github.com/kensho-technologies/pyctcdecode/blob/main/tutorials/02_pipeline_huggingface.ipynb)
 
 
 ### Tools / Tutorials
