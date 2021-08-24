@@ -42,9 +42,9 @@ For POS and NER:
 
 |          | Category      | Descriptions | Link |
 |-------------|---|------------------------------|--------------------------------------|
-|1|Text Classification|Intro and Classical Machine Learning|text_classification/Text_Classification1.ipynb|
-|2|Text Classification|Deep Learning (BERT) |text_classification/Text_classification_BERT.ipynb|
-|3|Machine Translation|Seq2seq |machine_translation/Machine_Translation_seq2seq.ipynb|
+|1|Text Classification|Intro and Classical Machine Learning|[notebook](text_classification/Text_Classification1.ipynb)|
+|2|Text Classification|Deep Learning (BERT) |[notebook](text_classification/Text_classification_BERT.ipynb)|
+|3|Machine Translation|Seq2seq |[notebook](machine_translation/Machine_Translation_seq2seq.ipynb)|
 
 ## Machine Translation
 
