@@ -35,7 +35,7 @@ For POS and NER:
 ## NER (Weirui)
 |          | Category      | Descriptions | Link |
 |-------------|---|------------------------------|--------------------------------------|
-|1|Named Entity Recognition| Out of box NER solution with Spacy|[notebook]()|
+|1|Named Entity Recognition| Out-of-box NER solution with Spacy|[notebook]()|
 |2|Named Entity Recognition| Train BiLSTM with Python from Scratch|[notebook]()|
 |3|Named Entity Recognition| Fine-tune BERT with Huggingface |[notebook]()|
 
