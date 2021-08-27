@@ -41,6 +41,8 @@ For POS and NER:
 
 
 ## Text Classification (Chiyu)
+ Text classification aims to assign a given text to one or more categories. We can find a wide range of real-world applications of text classification, such as spam filtering and sentiment analysis. In this section, two tutorials are included. We discuss what text classification is and solve a classification task in the first tutorial. The second tutorial address a classification task using a Transformer-based deep learning model.
+ 
 |          | Category      | Descriptions | Link |
 |-------------|---|------------------------------|--------------------------------------|
 |1|Text Classification|Intro and Classical Machine Learning|[notebook](text_classification/Text_Classification1.ipynb)|
