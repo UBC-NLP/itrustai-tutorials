@@ -20,11 +20,6 @@ For each task, we want to do the following in a notebook.
 # Natural Language Processing
 "Natural Language Processing (NLP) is an area of  research and application that explores how computers can be used  to understand and manipulate natural language text or speech  to do useful things." (Chowdhury 2003) As such NLP actually covers a wide range of techniques, with many different applications, that are often used in concert with each other. For instance, a type of Text Classification called Sentiment Analysis might try to utilize Part of Speech (POS) Tagging to disambiguiate word meaning through the POS tag, and therefor improve performance on the Text Classification task. In this section we will introduce many of the core NLP tasks, their intended purpose, and resources to aid their use, we opt to leave Speech Processing as a separate category for simplicity.
 
-|          | Category      | Descriptions | Link |
-|-------------|---|------------------------------|--------------------------------------|
-|1|Text Classification|Intro and Classical Machine Learning|[notebook](text_classification/Text_Classification1.ipynb)|
-|2|Text Classification|Deep Learning (BERT) |[notebook](text_classification/Text_classification_BERT.ipynb)|
-|3|Machine Translation|Seq2seq |[notebook](machine_translation/Machine_Translation_seq2seq.ipynb)|
 
 
 For POS and NER:
@@ -41,10 +36,15 @@ For POS and NER:
 
 
 ## Text Classification (Chiyu)
-
+|          | Category      | Descriptions | Link |
+|-------------|---|------------------------------|--------------------------------------|
+|1|Text Classification|Intro and Classical Machine Learning|[notebook](text_classification/Text_Classification1.ipynb)|
+|2|Text Classification|Deep Learning (BERT) |[notebook](text_classification/Text_classification_BERT.ipynb)|
 
 ## Machine Translation
-
+|          | Category      | Descriptions | Link |
+|-------------|---|------------------------------|--------------------------------------|
+|1 |Machine Translation|Seq2seq |[notebook](machine_translation/Machine_Translation_seq2seq.ipynb)|
 --- 
 
 
