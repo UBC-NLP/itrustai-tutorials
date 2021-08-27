@@ -32,11 +32,11 @@ For POS and NER:
 ## POS Tagging (Ife)
 
 
-## NER (Weirui)
+## Named Entity Recognition (NER) (Weirui)
 |          | Category      | Descriptions | Link |
 |-------------|---|------------------------------|--------------------------------------|
-|1|Named Entity Recognition| Out-of-box NER solution with Spacy|[notebook]()|
-|2|Named Entity Recognition| Train BiLSTM with Python from Scratch|[notebook]()|
+|1|Named Entity Recognition| Introduction to NER and out-of-box solution with Spacy|[notebook]()|
+|2|Named Entity Recognition| Train BiLSTM with PyTorch from Scratch|[notebook]()|
 |3|Named Entity Recognition| Fine-tune BERT with Huggingface |[notebook]()|
 
 
