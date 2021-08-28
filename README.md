@@ -41,7 +41,7 @@ For POS and NER:
 
 
 ## Text Classification (Chiyu)
- Text classification aims to assign a given text to one or more categories. We can find a wide range of real-world applications of text classification, such as spam filtering and sentiment analysis. In this section, two tutorials are included. We discuss what text classification is and solve a classification task in the first tutorial. The second tutorial address a classification task using a Transformer-based deep learning model.
+Text classification aims to assign a given text to one or more categories. We can find a wide range of real-world applications of text classification, such as spam filtering and sentiment analysis. In this section, two tutorials are included. We discuss what text classification is and solve a classification task in the first tutorial. The second tutorial address a classification task using a Transformer-based deep learning model.
  
 |          | Category      | Descriptions | Link |
 |-------------|---|------------------------------|--------------------------------------|
@@ -49,6 +49,8 @@ For POS and NER:
 |2|Text Classification|Deep Learning (BERT) |[notebook](text_classification/Text_classification_BERT.ipynb)|
 
 ## Machine Translation
+Machine Translation aims to learn a automatic system to translate a given text from a language to another language. This section includes a tutorial of neural-based machine translation. We introduce a important architecture in machine translation: [sequence to sequence network](https://arxiv.org/abs/1409.3215), in which two recurrent neural networks work together to transform one sequence (e.g., sentence) to another. 
+
 |          | Category      | Descriptions | Link |
 |-------------|---|------------------------------|--------------------------------------|
 |1 |Machine Translation|Seq2seq |[notebook](machine_translation/Machine_Translation_seq2seq.ipynb)|
