@@ -32,7 +32,7 @@ For POS and NER:
 ## POS Tagging (Ife)
 |          | Category      | Descriptions | Link |
 |-------------|---|------------------------------|--------------------------------------|
-|1|POS Tagging| Train BiLSTM with PyTorch from Scratch|[notebook]()|
+|1|POS Tagging| Train BiLSTM with PyTorch from Scratch|[notebook](Bilstm_POS_Tutorial.ipynb)|
 
 ## Named Entity Recognition (NER) (Weirui)
 |          | Category      | Descriptions | Link |
