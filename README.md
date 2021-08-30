@@ -39,7 +39,7 @@ For POS and NER:
 |-------------|---|------------------------------|--------------------------------------|
 |1|Named Entity Recognition| Introduction to NER and out-of-box solution with Spacy|[notebook](named_entity_recognition/Introduction%20to%20NER%20and%20out-of-box%20solution%20with%20Spacy.ipynb)|
 |2|Named Entity Recognition| Train BiLSTM with PyTorch from Scratch|[notebook](named_entity_recognition/NER_Train_BiLSTM_with_PyTorch_from_Scratch.ipynb)|
-|3|Named Entity Recognition| Fine-tune BERT with Huggingface |[notebook]()|
+|3|Named Entity Recognition| Fine-tune BERT with Huggingface |[notebook](named_entity_recognition/NER_Fine_tune_BERT_with_Huggingface.ipynb)|
 
 
 ## Text Classification (Chiyu)
