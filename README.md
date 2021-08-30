@@ -30,7 +30,9 @@ For POS and NER:
 - list existing tools and explain how to use Spacy
 
 ## POS Tagging (Ife)
-
+|          | Category      | Descriptions | Link |
+|-------------|---|------------------------------|--------------------------------------|
+|1|POS Tagging| Train BiLSTM with PyTorch from Scratch|[notebook]()|
 
 ## Named Entity Recognition (NER) (Weirui)
 |          | Category      | Descriptions | Link |
