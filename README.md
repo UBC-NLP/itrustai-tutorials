@@ -37,8 +37,8 @@ For POS and NER:
 ## Named Entity Recognition (NER) (Weirui)
 |          | Category      | Descriptions | Link |
 |-------------|---|------------------------------|--------------------------------------|
-|1|Named Entity Recognition| Introduction to NER and out-of-box solution with Spacy|[notebook]()|
-|2|Named Entity Recognition| Train BiLSTM with PyTorch from Scratch|[notebook]()|
+|1|Named Entity Recognition| Introduction to NER and out-of-box solution with Spacy|[notebook](named_entity_recognition/Introduction%20to%20NER%20and%20out-of-box%20solution%20with%20Spacy.ipynb)|
+|2|Named Entity Recognition| Train BiLSTM with PyTorch from Scratch|[notebook](named_entity_recognition/NER_Train_BiLSTM_with_PyTorch_from_Scratch.ipynb)|
 |3|Named Entity Recognition| Fine-tune BERT with Huggingface |[notebook]()|
 
 
