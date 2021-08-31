@@ -1,42 +1,17 @@
 # AI and ML Tutorial Repository
 
-# Outline
-## Option A (Broad Categoy / Task)
-
-Example:
-
----
-
-# General Instructions
-
-For each task, we want to do the following in a notebook.
-
-- what is it?
-- a small dataset
-- an example tutorial, possibly just using an off-the-shelf tool (classical ML)
-- a deep learning example
-- list of external tools, possibly with some brief explanation about each tool (a couple of sentences, what it does, why good/bad, what languages it covers)
-
 # Natural Language Processing
 "Natural Language Processing (NLP) is an area of  research and application that explores how computers can be used  to understand and manipulate natural language text or speech  to do useful things." (Chowdhury 2003) As such NLP actually covers a wide range of techniques, with many different applications, that are often used in concert with each other. For instance, a type of Text Classification called Sentiment Analysis might try to utilize Part of Speech (POS) Tagging to disambiguiate word meaning through the POS tag, and therefor improve performance on the Text Classification task. In this section we will introduce many of the core NLP tasks, their intended purpose, and resources to aid their use, we opt to leave Speech Processing as a separate category for simplicity.
 
 
-
-For POS and NER:
-
-- explain what each is
-- provide a sample dataset (small, in English)
-- show how to train a model with deep learning (one with BiLSTM using PyTorch, and another with fine-tuning BERT use HuggingFace)
-- list existing tools and explain how to use Spacy
-
-## POS Tagging (Ife)
+## POS Tagging 
 |          | Category      | Descriptions | Link |
 |-------------|---|------------------------------|--------------------------------------|
 |1|POS Tagging| POS with spaCy|[notebook](pos_tagging/POS_Tagging_Spacy_.ipynb)|
 |2|POS Tagging| Train BiLSTM with PyTorch from Scratch|[notebook](pos_tagging/Bilstm_POS_Tutorial_.ipynb)|
 |3|POS Tagging| Finetune with BERT from Scratch|[notebook](pos_tagging/BERT_POS_Tagging.ipynb)|
 
-## Named Entity Recognition (NER) (Weirui)
+## Named Entity Recognition (NER) 
 |          | Category      | Descriptions | Link |
 |-------------|---|------------------------------|--------------------------------------|
 |1|Named Entity Recognition| Introduction to NER and out-of-box solution with Spacy|[notebook](named_entity_recognition/Introduction%20to%20NER%20and%20out-of-box%20solution%20with%20Spacy.ipynb)|
@@ -44,7 +19,7 @@ For POS and NER:
 |3|Named Entity Recognition| Fine-tune BERT with Huggingface |[notebook](named_entity_recognition/NER_Fine_tune_BERT_with_Huggingface.ipynb)|
 
 
-## Text Classification (Chiyu)
+## Text Classification 
 Text classification aims to assign a given text to one or more categories. We can find a wide range of real-world applications of text classification, such as spam filtering and sentiment analysis. In this section, two tutorials are included. We discuss what text classification is and solve a classification task in the first tutorial. The second tutorial address a classification task using a Transformer-based deep learning model.
  
 |          | Category      | Descriptions | Link |
@@ -61,7 +36,7 @@ Machine Translation aims to learn a automatic system to translate a given text f
 --- 
 
 
-# Speech Processing (Peter)
+# Speech Processing 
 Speech Processing deals with extracting information or manipulating, human speech. Several challenges are present in speech processing compared to text-based NLP, we illustrate two such issues. Audio can be represented in several different ways (e.g. raw wav files, log mel spectrograms, Mel Frequency Cepstral Coefficients etc.) all of which will represents relatively long sequence lengths compared to text, making model training difficult if simply trained on the whole sequence. Data availability is also significantly less than as compared to text, greatly impacting low-resources languages where it may be difficult to find enough labeled data to make high quality speech processing models. 
 
 ## Automatic Speech Recognition (ASR)
@@ -85,8 +60,8 @@ The easiest starting point for getting an ASR model running currently is to use 
 |   |  |   | |
 
 
-# Image Processing (Chiyu)
-
+# Image Processing 
+Forthcoming!
 - object recognition
 - caption generation
 
