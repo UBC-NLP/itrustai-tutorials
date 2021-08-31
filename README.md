@@ -32,7 +32,7 @@ For POS and NER:
 ## POS Tagging (Ife)
 |          | Category      | Descriptions | Link |
 |-------------|---|------------------------------|--------------------------------------|
-|1|POS Tagging| POS with spaCy|[notebook](pos_tagging/)|
+|1|POS Tagging| POS with spaCy|[notebook](pos_tagging/POS_Tagging_Spacy_.ipynb)|
 |2|POS Tagging| Train BiLSTM with PyTorch from Scratch|[notebook](pos_tagging/Bilstm_POS_Tutorial_.ipynb)|
 |3|POS Tagging| Train BiLSTM with BERT|[notebook]()|
 
