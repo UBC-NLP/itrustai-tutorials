@@ -1,5 +1,9 @@
 # AI and ML Tutorial Repository
 
+This repository houses tutorials created for the iTrustAI SSHRC Partnership Grant. These tutorials will grow over time and will be used in hands-on workshops for training purposes.
+
+---
+
 # Natural Language Processing
 Natural Language Processing (NLP) is the field focusing on developing methods and tools for understanding and generating human language. As such NLP actually covers a wide range of technologies, with many different applications, that are often used in concert with one other. For instance, a type of text classification such as sentiment analysis might try to utilize part of speech (POS) tagging to disambiguiate word meaning through the POS tag, and therefor improve performance on the text classification task. In this section we will introduce code to train models for many of the core NLP tasks.
 
