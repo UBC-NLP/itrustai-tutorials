@@ -72,7 +72,7 @@ Forthcoming!
 - 
 ---
 
-# Practical Machiine Learning 
+# Practical Machine Learning 
 Forthcoming!
 - Working with data for ML
 - How to train a neural network
