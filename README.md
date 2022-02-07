@@ -14,7 +14,7 @@ Natural Language Processing (NLP) is the field focusing on developing methods an
 |-------------|---|------------------------------|--------------------------------------|
 |1|POS Tagging| POS with spaCy|[notebook](pos_tagging/POS_Tagging_Spacy_.ipynb)|
 |2|POS Tagging| Train BiLSTM with PyTorch from Scratch|[notebook](pos_tagging/Bilstm_POS_Tutorial_.ipynb)|
-|3|POS Tagging| Finetune with BERT from Scratch|[notebook](pos_tagging/BERT_POS_Tagging.ipynb)|
+|3|POS Tagging| Finetune with BERT from Scratch|[notebook](pos_tagging/BERT_POS_Tagging_new.ipynb)|
 
 ---
 
